@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+package exmarket;
+
+option java_multiple_files = true;
+option java_package = "io.kang.exchange.exmarket.proto";
+option objc_class_prefix = 'Exchange';
